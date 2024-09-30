@@ -1,6 +1,3 @@
-# wp-prevent-user-enumeration
-Prevent User Enumeration in WordPress simple plugin
-
 # WP Prevent User Enumeration
 A little plugin based on our tutorial on [How to Prevent User Enumeration in WordPress](https://www.wpexplorer.com/prevent-user-enumeration-wordpress/)
 
